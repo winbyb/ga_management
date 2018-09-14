@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "digital-strata-216421",
+  "private_key_id": "8b0ac65fe5515d3e239706b83ae9396189008d09",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDsMx8la2xrCjDu\n3glTXz9o8ToIYl0Xif4bs1IIA28c2XdnP6+g95FdyM/deZb+7omjYEgvFk9ao53r\nID5UhMLOSjw8AzYDSNw63hvPNekSVFuL5UMSRjyhMXOarlgf+P05oZ1Z/VUpaE/+\nYBE8ek0GBH8v+fzBbvQamT+IikjxZL8TXSi7vfNPMsAawqZG3pWzhCOLkccJJRZJ\ntp5kcSysxXtnIUsFvFyjL9Qi6644FLZpvsBDLPeoQgXTULvrOWpC0cY4bOKyhYxN\n94NOPlhWk9NF7dWfUTSzXgoNNbOS2GR5X8tIok2j3nYRQ9/l4E0+ecpXvB0XvTei\ng45WwxkpAgMBAAECggEACW8DQ/HV6zKFgMzSb4eC11SnHjWbhTioMwAG+zXz5qGS\n4MdM4u9wWWAPWUelbbomOiW6zFKmSbb2NDFd++8vfqC9ZiI0so3i6eD8GFsNW4OO\nAnjeJGk0u7Vnahqjf2do6bfYOoNhNt2pMD4zAgjaca6VS9u+qhUd38AWJwRq5GUv\njelNaIQWJKIhoKbca7xB+7Kzl4GKUXPRryr0J3mKyHEyX2+j95yqdG4jJVpNWcEm\nzpNDJW9Gn5SBUaQtnGv+yXxFk1hNAy/4lcuO+mePkFA7v7JWSXM56Wt4yhYSw2sf\nOrSyBaByBYoZNS6MGlXWzgYItL0kkjFeJSN5DA+ohwKBgQD3dn0VaNSswDRH06GB\nxV8FvrpsJQHaZJQrYGcNFDQmON87N0Lzf0qDYlvk+YyPYWJzhHUscPHMl29PobhH\nYFiKv0oMl7UCEn7Yk+DawwAMtLfSNQIsKXiawqFJKvSCeihKpK8CKQMHgw/aUace\njPVqGA4HHM9cWf1haYhvN2J6cwKBgQD0WSkabrAYFJ2FdB69Q91iFz7bOahX7wej\nLIl8DFf+YrAifZ7tCqlk9K3VGRenwfY6guP8sijGib6Gc5BpI31vh+zyDIJxIWvm\n2hri1pjQwTmlCkLz9VTTMJ09h0MdGLL4vcNYkcMBqtg3xCKevIkrDITTompZ0cGQ\ncHkGbIYq8wKBgH2WWKzA4w45DU9WjCS78hmMTjgMIACiAsBw0FvG4SB0xHXc+dFx\nzHMZO+Hc9ATgO4K8umqvd0eJoygavtcaglUH96CkbWx7znxDsF3VkPTh0liQJmYb\nNeX02L21WxnMvR4Erfy+q5boYOc/gTzz9Ki/RH8/k80eroT9dgxbY1MZAoGAQhnQ\nnb7t0kXZax3Dpw2x2PRS47lQSiF2nnTQ6IbqUv3diicTlCp7Mr1iPTChjpdRBfkc\nteJ4V2Ux7mta2KZqK37I4Z3yt6oD55p/BXhqNKbg8j25aQeoH82Z6+gohrmEyPeE\n3fPong3amhNsDicQsF2dnSblwFCXHXzfsJYxIXMCgYBbLflE77d2Fhb4zVTrkaSC\niwinYUwtYoKIP8ft+4YdiN4wHzsGRIhXG40ggMwarH/rzC3vh5p25UWaDiuBCLuI\nfyf1nESaS33geZtU1Va9XUijmzFlCanaPi5aLJ1JW2W4/jeLEd1+iJ52iDPfSaZN\nriKgxZzJGA6Nop/kPEhL4w==\n-----END PRIVATE KEY-----\n",
+  "client_email": "ga-api-management@digital-strata-216421.iam.gserviceaccount.com",
+  "client_id": "114094098307497364363",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ga-api-management%40digital-strata-216421.iam.gserviceaccount.com"
+}

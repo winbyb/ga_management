@@ -80,7 +80,7 @@ def print_results(results):
 def main():
     # Define the auth scopes to request.
     scope = 'https://www.googleapis.com/auth/analytics.readonly'
-    key_file_location = 'C:/Users/benwi/PycharmProjects/ga_management/digital-strata-216421-8b0ac65fe551.json'
+    key_file_location = 'C:/Users/benwi/PycharmProjects/ga_management/client_secret.json'
 
     # Authenticate and construct service.
     service = get_service(
